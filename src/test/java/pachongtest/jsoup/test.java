@@ -10,6 +10,8 @@ import java.io.IOException;
 import java.net.URLEncoder;
 import java.util.Base64;
 
+
+//电影爬取已完成
 public class test {
     public static void main(String[] args) throws IOException {
         JSONObject jsonObject = new JSONObject();
